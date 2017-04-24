@@ -3,7 +3,7 @@
 
 DEBUG = False
 #
-#
+#test4
 # 
 # BLE scanner based on https://github.com/adamf/BLE/blob/master/ble-scanner.py
 # BLE scanner, based on https://code.google.com/p/pybluez/source/browse/trunk/examples/adva
